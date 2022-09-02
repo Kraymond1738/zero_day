@@ -1,1 +1,1 @@
-My readme
+this file is mandatory
