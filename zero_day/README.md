@@ -1,1 +1,1 @@
-vagrant test2
+hvagrant test2
